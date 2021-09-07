@@ -19,7 +19,7 @@ Rahmat Herron
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/RDHerron/Flixster2/blob/main/Flixster2.gif" width=250><br>
 
 ### Notes
 
